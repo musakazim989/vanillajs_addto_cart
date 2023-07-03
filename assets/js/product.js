@@ -1,10 +1,10 @@
 const products = [
   {
     id: 1,
-    title: "Men chekck shirt",
+    title: "Men shirt",
     description:
       "It is a long established fact that a reader will be distracted by the readable",
-    image: "../images/1.jpg",
+    image: "1.jpg",
     price: "78",
   },
   {
@@ -24,7 +24,7 @@ const products = [
     price: "50",
   },
   {
-    id: 1,
+    id: 4,
     title: "Old women cloth",
     description:
       "The standard chunk of Lorem Ipsum used since the 1500s is reproduced",
